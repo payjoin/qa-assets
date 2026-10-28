@@ -1,0 +1,9 @@
+{"CheckedBroadcastSuitability":[0,0,0,0,0,0,0,0,0,0,0]}
+{"CheckedInputsNotOwned":[]}
+{"CheckedBroadcastSuitability":[9,9,9,9,9,9,9,9,9,9,9,9,9]}
+{"IdentifiedReceiverOutputs":0}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"ity":[0,0,0,0,0,0,0,0,0,0,0]}
+{"CheckedInputsNotOwned":[]}
+{"CheckedBroadcastSuitability":[9,9,9,9,9,9,9,9,9,9,9,9,9]}
+{"IdentifiedReceiverOutputs":0}
+{"GotReplyableError":{"error_code":"Orisupported":[1,2]},"message":""}}

@@ -1,0 +1,7 @@
+{"Closed":"FallbackBroadcasted"}
+{"CheckedBroadcastSuitability":[57,57,57,57,57,57,57,57,57]}
+{"Closed":"Aborted"}
+{"CheckedInputsNotOwned":[]}
+{"CheckedNoInputsSeenBefore":[255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"CommittedOutputs":{"change_vout":0,"outputs":[{"script_pubkey":"a9141de849f069d274150e3afeae8d72eb5a6b09443087","value":95983068},{"script_pubkey":"a914774096dbcf486743c22f4347e9b469febe8b677a87","value":2000000}]}}

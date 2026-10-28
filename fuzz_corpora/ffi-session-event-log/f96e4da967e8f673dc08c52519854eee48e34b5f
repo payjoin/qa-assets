@@ -1,0 +1,10 @@
+{"GotReplyableError":{"error_code":"Versio\u0000\u0000\u0000\u0000\u0000\u0000\u0000Krted","extra":{},"message":"Receiver error"}}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{},"message":"ReceiverCheckedBroadcastSuitability":[]}
+{}
+{"CheckedBroadcastSuitability":[]}
+{"C0eckedInputsNotOwned":[]}
+{"CheckedNoInputsSeenBefore":[]}
+{"CheckedNoInputsSeenBefore":[]}
+{"CommittedOutputs":[255,255]}
+{"CheckedNoInputsSeenBefore": error"}}
+{"GotReplyableError":{"error_code":"Veoutputsrsio\u0000\u0000\u0000\u0000\u0000\u0000\u0000Krted","extra":{},"message":"ReceivesSerror"}}

@@ -1,0 +1,13 @@
+{"GotReplyableError":{"error_code":"Vers�������ion�nsupported","extra":{}}}
+{"GotReplyableError":{"extra":{},"message":null}}
+{"GotReplyableError":{"extra":{"supported":[1,2]},"message":"\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000"}}
+{"GotReplyableError":{"error_code":"U�navailable","extra":{},"message":"Receiver error"}}
+{"GotReplyableError":{"extra":{},"message":"Receiver error"}}
+{"GotReplyableError":{"extra":{"supported":[1,2]},"message":"\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000"}}
+{"GotReplyableError":{"error_code":"U�navailable","extra":{},"message":"Receiver error"}}
+{"GotReplyableError":{"error_code":"NotEnoughMoney","extra":{},"message":"Receiver error"}}
+{"GotReplyableError":{"error_code":"NotEnoughMoney","extra":{},"message":null}}
+{"PostedOriginalPsbt":null}
+{"GotReplyableError":{"error_code":"NotEnoughMoney","extra":{},"message":null}}
+{"PostedOriginalPsbt":null}
+{"GotReplyableError":{"extra":{},"messa\u0000\u0000\u0000\u0000\u0000\u0000Receiver error"}}

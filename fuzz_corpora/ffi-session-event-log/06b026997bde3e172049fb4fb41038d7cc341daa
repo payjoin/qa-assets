@@ -1,0 +1,17 @@
+{"CommittedOutputs":{"change_vout":0,"ou[tputs":[{"script_pubkey":"a9141de849f069d274150e3afeae8d72eb5a6b09443087","value":95983068},{"script_pubkey":"a914774096dbcf486743c22f4347e9{"change_vout":0,"ou[tputs":[{"script_pubkey":"a9141de849f069d274150e3afeae8d72eb5a6b09443087","value":95983068},{"script_pubkey":"a914774096dbcf486743c22f4347e9b469febe8b677a87","value":2000000}]}}
+{"CheckedBroadcastSuitability":[]}
+{"CheckedNoInputsSeenBefore":[]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"RetrievedOriginalPayload":{"reply_key":[4,194,221,118,65,156,207,82,35,217,201,43,116,24,169,42,61,39,244,255,112,83,209,162,36,150,230,77,40,133,173,247,186,16,202,172,58,122,210,166,77,90,94,98,183,37,82,127,92,242,127,14,208,130,137,57,186,17,229,87b5a6b09443087","value":95983068},{"script_pubkey":"a914774096dbcf486743c22f4347e9b469febe8b677a87","value":2000000}]}}
+{"CheckedBroadcastSuitability":[]}
+{"CheckedNoInputsSeenBefore":[]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"RetrievedOriginalPayload":{"reply_key":[4,194,221,118,65,156,207,82,35,217,201,43,1b469febe8b677a87","value":2000000}]}}
+{"CheckedBroadcastSuitability":[]}
+{"CheckedNoInputsSeenBefore":[]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"RetrievedOriginalPayload":{"reply_key":[4,194,221,118,65,156,207,82,35,217,201,43,116,24,169,42,61,39,244,255,112,83,209,162,36,150,230,77,40,133,173,247,186,16,202,172,58,122,210,166,77,90,94,98,183,37,82,127,92,242,127,14,208,130,137,57,186,17,229,87b5a6b09443087","value":95983068},{"script_pubkey":"a914774096dbcf486743c22f4347e9b469febe8b677a87","value":2000000}]}}
+{"CheckedBroadcastSuitability":[]}
+{"CheckedNoInputsSeenBefore":[]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"RetrievedOriginalPayload":{"reply_key":[4,194,221,118,65,156,207,82,35,217,201,43,116,24,1,40,44,57,51,243]}}

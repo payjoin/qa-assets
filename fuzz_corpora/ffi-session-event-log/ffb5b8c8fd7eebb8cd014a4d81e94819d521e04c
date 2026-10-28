@@ -1,0 +1,7 @@
+{"CheckedBroadcastSuitability":[]}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":[1,2]},"message":""}}
+{"CheckedInputsNotOwned":[]}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{},"message":"Receiver error"}}
+{"CheckedNoInputsSeenBefore":	]}
+{"IdentifiedReceiverOutputs":[0,129]}
+{"CommittedOutputs":{"change_vout":18446744073709551611,"outputs":[{"script_pubkey":"a9141de849f069d274150e3afeae8d72eb5a6b09443087","value":95983068},{"script_pubkey":"a914774096dbcf486743c22f4347e9b469febe8b677a87","value":2000000}]}}

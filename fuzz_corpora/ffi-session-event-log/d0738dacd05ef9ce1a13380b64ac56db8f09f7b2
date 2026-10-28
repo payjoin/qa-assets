@@ -1,0 +1,4 @@
+{"CommittedOutputs":["Closed":{"Unrecognized":"0000000000000000000000000000000000000000000000000000000000000000"}}
+{"RetrievedOriginalPayload":{"original":{"params":{"additional_fee_contribution":[182,0],"min_fee_rate":250,"output_substitution":"Enabled","v":1},"psbt":{"inputs{}}
+{}
+{"CheckedInputs":[{"bip32_derivation":[],"final_script_sig":"160014c78a45725355828d5

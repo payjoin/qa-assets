@@ -1,0 +1,9 @@
+{"CheckedNoInputsSeenBefore":[]}
+{"CheckedInputsNotOwned":[]}
+{"CheckedBroadcastSuitability":[]}
+{"IdentifiedReceiverOutputs":[113,1]}
+{"GotReplyableError":{"error_code"E"ntNo:oughMoney","extra":{},"message":"Receiver error"}}
+{}
+{"CheckedBroadcastSuitability":[]}
+{"GotReplyableError":{"error_code": NotEnoughMoney","extra":{},"message":"Receiver error"}}
+{"CheckedInputsNotOwned":[]}

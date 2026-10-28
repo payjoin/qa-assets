@@ -1,0 +1,4 @@
+{"GotReplyableError":{"error_code":"VersionUnsupported","extra":{},"message":"Re\"}}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":[1,2]},"message":null}}
+{"Cancelled":[0,14,42,102]}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{},"message":null}}

@@ -1,0 +1,32 @@
+{"CommittedOutputs":{"change_vout":0,"outputs":[{"script_pubkey":"a9141de849f069D274150e3afeae8d72eb5a6b09443087","value":95983068},{"script_pubke}":"a914774096dbcf486743c22f4347e9b469febe8b677a87","value":2000000}]}}
+{}
+{"GotReplyableError":{"error_code":"VersionUnsupported","extra":{},"message":"Receiver error"}}
+{}
+"ProtocolFailed"
+{"IdentifiedReceiverOutputs":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1]}
+{"CheckedInputsNotOwned":[189,110,110,110,110,110,110,110,110,110,110,110,110,110,110,110,110]}
+{"IdentifiedReceiverOutputs":[0,115,105,103,104,97,115,104,95,116,121,112,101,1,50,44,49,56,49]}
+{}
+"ProtocolFailed"
+{"IdentifiedReceiverOutputs":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1]}
+{"CheckedInputsNotOwned":[189,110,110,110,110,110,110,13,110,110,110,110,110,110,110,110,110,110]}
+{"IdentifittedOutputs":{"change_vout":0,"outputs":[{"script_pubkey":"a9141de849f069D274150e3afeae8d72eb5a6b09443087","value":95983068},{"script_pubke}":"a914774096dbcf486743c22f4347e9b469febe8b677a87","value":2000000}]}}
+{}
+{"CheckedBroadcastSuitability":[110,111,110,95,119,105,116,110,101,115,115,95,117,116,120,111]}
+{"GotReplyableError":{"error_code":"VersionUnsupported","extra":{},"message":"Receiver error"}}
+{}
+"ProtocolFailed"
+{"IdentifiedReceiverOutputs":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1]}
+{"CheckedInputsNotOwned":[189,110,110,110,110,110,110,110,110,110,110,110,110,110,110,110,110]}
+{"IdentifiedReceiverOutputs":[0,1,50,44,49,56,49]}
+{}
+"ProtocolFailed"
+{"IdentifiedReceiverOutputs":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1]}
+{"CheckedInputsNotOwned":[189,110,110,110,110,110,110,110,110,110,110,110,110,110,110,110,110]}
+{"IdentifiedReceiverOutputs":[0,1,50,44,49,56,49]}
+{"CheckedNoInputsSeenBefore":[33]}
+{"CheckedNoInputsSeenBefore":[1,0,0,0]}
+{"CheckedNoInputsSeenBefore":[33]}
+{"CheckedNoInputsSeenBefore":[1,0,0,0]}
+{"CheckedInputsNotOwned":[189,110,110,110,110,110,110,110,110,110,110,110,110,110,110,110,110]}
+{"IdentifiedReceiverOutputs":[0,1]}

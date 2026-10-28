@@ -1,0 +1,2 @@
+{"Created":{"pj_param":{"directory":"http://"bip32_derivation":[],"final_script_sig":"160014c78a45725355828d5658074dd5260d5fcb698530","final_scriptness_script":null},{"proprietary":[],"redeem_script":null,"tap_internal_key":null,"tap_key_origins":[],"tap_tree":null,"unknown":[],"witness_script":null}],"proprietary":[],"unknown":[],"unsigned_tx":{"input":[{"previous_output":"833b,234,236,192,100,107,225,134,28,184,185,244,149,167,160,53,243,112,59,31,1]}}
+{"CheckedNoInputsSeenBefore":false}

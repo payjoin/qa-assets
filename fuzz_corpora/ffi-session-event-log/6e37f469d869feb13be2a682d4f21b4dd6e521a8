@@ -1,0 +1,6 @@
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":null},"message":"0"}}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":false},"message":"0"}}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":null},"message":"0"}}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":null},"message":"0"}}
+{"GotReplyableError":{"error_code":"OriginalPsbtR%jected","extra":{"supported":false},"message":null}}
+{"GotReplyableError":{"error_code":"VersionUnsupported","extra":{},"message":"Receiver error"}}

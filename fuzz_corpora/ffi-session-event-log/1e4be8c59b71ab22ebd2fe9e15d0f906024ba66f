@@ -1,0 +1,14 @@
+{"CheckedInputsNotOwned":null}
+{"IdentifiedReceiverOutputs":[0,1]}
+{}
+{"CommittedOutputs":{"outputs":[{1]}
+{}
+{"CommittedOutputs":{"outputs":[{"script_pubkey":"a9141de849f069d274150e3afeae8d72eb5a6b09443087","value":281475072693724},{CheckedInputsNotOwned":null}
+{"IdentifiedReceiverOutputs":[0,1]}
+{}
+{"CommittedOutputs":{"outputs":[{1]}
+{}
+{"CommittedOutputs":{"outputs":[{"script_pubkey":"a9141de849f069d274150e3afeae8d72eb5a6b09443087","value":281475072693724},{"script_pubkey":"a914774096dbcf486743c2"script_pubkey":"a9141de849f069d274150e3afeae8d72eb5a6b09443087","value":281475072693724},{"script_pubkey":"a914774096dbcf486743c22f4347e9b469febe8b677a87","value":2000000}]}}
+{"Checke"script_pubkey":"a914774096dbcf486743c2"script_pubkey":"a9141de849f069d274150e3afeae8d72eb5a6b09443087","value":281475072693724},{"script_pubkey":"a914774096dbcf486743c22f4347e9b469febe8b677a87","value":2000000}]}}
+{"CheckedBroadcastSuitability":[]}
+{"Closed":"Aborted"}

@@ -1,0 +1,3 @@
+{}]}],"lock_time":211,"output":[{"script_pubkey":"a9141de849f069d274150e3afeae8d72eb5a6b09443087","value":95983068},{"script_pubkey":"a914774096dbcf486743c22f4347e9b469febe8b677a87","value":2000000}],"version":2},"version":0,"xpub":{}}}
+{"FinalizedProposal":{"inputs":[{"bip32_derivation":[],"final_script_sig":null,"final_script_witness":null,"hash160_preimages":{},"hash256_preimages":{},"non_witness_utxo":null,"partial_sigs":{},"proprietary":[],"redeem_script":null,"ripemd160_preimages":{},"sha256_preimages":{},"sighash_type":null,"t
+{}

@@ -1,0 +1,2 @@
+{"GooutputstReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":[1,2]},"message":""}}
+{"Created":{"address":"tb1q6d3a2w975yny01suvd9a67ner4nks58ff0q8g4","amount":true,"directory":"https��/example.com/","expiration":"410244487461705f696e7465706e616c5f6b657900","max_fee_rate":"482686964","receiver_key":[null,null],"reply_key":null}}

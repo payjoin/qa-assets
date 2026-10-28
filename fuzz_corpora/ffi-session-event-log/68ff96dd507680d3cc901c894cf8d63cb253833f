@@ -1,0 +1,6 @@
+{"CheckedBroadcastSuitability":[]}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":[1,250]},"message":""}}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":null}}}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":[1,2]}}}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":null}}}
+{"GotReplyableError":{"error_code":"Orig{in","extra":{},"message":"Receiver error"}}

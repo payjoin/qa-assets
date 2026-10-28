@@ -1,0 +1,2 @@
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":[1,2,3,0,0,0,0,0,0,0]},"message":""}}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":[1,2,3,01,6,0,0,0,0,0,0]},"message":"\u0000\u0000\u0000pre\u0000\u0000\u0000\u0000\u0000\u0000"}}

@@ -1,0 +1,10 @@
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":[65,2]},"message":""}}
+"Cancelled"
+{"GotReplyableError":{"error_code":"No\u0016��tEnoughMoney","extra":{},"m#essage":"Receiver er\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ror"}}
+{"GotReplyableError":{"extra":{},"message":"Receiver er\u0000\u0000\u0000\u0000\u0000\u0000\u0000\r\u0000\u0000\u0000\u0000ror"}}
+"Cancelled"
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":[2,2]},"message":""}}
+"Cancelled"
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":[2,2]}}}
+"versionCancelled"
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":[2,2]},"message":null}}

@@ -1,0 +1,3 @@
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","exNra":{"supported":[1,2]},"message":false}}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":[1,2]},"message":true}}
+{"IdentifiedReceiverOutputs":[169,1]}

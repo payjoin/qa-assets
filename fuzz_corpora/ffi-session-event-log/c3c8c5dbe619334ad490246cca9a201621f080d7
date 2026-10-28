@@ -1,0 +1,4 @@
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{},"message":"Receiver error"}}
+{"PostedOriginalPsbt":[16,0]}
+{"CheckedNoInputsSeenBefore":[]}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","message":""}}

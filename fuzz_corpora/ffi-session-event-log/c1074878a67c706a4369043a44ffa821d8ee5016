@@ -1,0 +1,43 @@
+{"CheckedNoInputsSeenBefore":[]}
+{"CheckedInputsNotOwned":[]}
+{"CheckedBroadcastSuitability":[]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"GotReplyableError":{"error_code":"
+{"CheckedInputsNotOwned":[]}
+{"CheckedBroadcastSuitability":[]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"GotReplyableError":{"error_code":"NotEnougheoney","extra":{},"message":"Receiver error"}}
+{"CheckedNoInputsSeenBefore":[]}
+{"CheckedInputsNotOwned":[]}
+{"CheckedBroadcastSuitability":[]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"GotReplyableError":{"error_code":"NotEnoughMoney","extra":{},"message":"Receiver error"}}
+{"CheckedNoInputsSeenBefore":[]}
+{"CheckedInputsNotOwned":[]}
+{"CheckedBroadcastSuitability":[]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"GotReplyableError":{"error_code":"NotEnoughMoney","extra":{},"message":"Receiver error"}}
+{}
+{"CheckedInputsNotOwneheckedInputsNotOwned":[]}
+{"CheckedBroadcastSuitability":[]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"GotReplyableError":{"error_code":"NotEnoughMoney","extra":{},"message":"Receiver error"}}
+{"CommittedOutputs":{"change_vout":0,"outputs":[{"script_pubkey":"a9141de849f069d274150e3afeae8d72eb5a6b09443087","value":95983068},{"script_pubkey":"a914774096dbcf486743c22f4347e9b469febe8b677a87","value":2000000}]}}
+{"CheckedInputsNotOwNotEnougheoney","extra":{},"message":"Receiver error"}}
+{"CheckedNoInputsSeenBefore":[]}
+{"CheckedInputsNotOwned":[]}
+{"CheckedBroadcastSuitability":[]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"GotReplyableError":{"error_code":"NotEnoughMoney","extra":{},"message":"Receiver error"}}
+{"CheckedNoInputsSeenBefore":[]}
+{"CheckedInputsNotOwned":[]}
+{"CheckedBroadcastSuitability":[]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"GotReplyableError":{"error_code":"NotEnoughMoney","extra":{},"message":"Receiver error"}}
+{}
+{"CheckedInputsNotOwneheckedInputsNotOwned":[]}
+{"CheckedBroadcastSuitability":[]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"GotReplyableError":{"error_code":"NotEnoughMoney","extra":{},"message":"Receiver error"}}
+{"CommittedOutputs":{"change_vout":0,"outputs":[{"script_pubkey":"a9141de849f069d274150e3afeae8d72eb5a6b09443087","value":95983068},{"script_pubkey":"a914774096dbcf486743c22f4347e9b469febe8b677a87","value":2000000}]}}
+{"CheckedInputsNotOwned":[]}

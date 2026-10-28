@@ -1,0 +1,4 @@
+{"GotReplyableError":{"error_cerror_code":"OriginalPsbtRejected","eode":"OriginalPsbtRejected","extra":{"supported":[2,2]},"message":""}}
+{"PostedOriginalPsbt":[0,0,0,0,0,0,0,37]}
+{"CheckedInputsNotOwned":[]}
+{"PostedPayjoinProposal":[]}
