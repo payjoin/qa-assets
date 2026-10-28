@@ -1,0 +1,14 @@
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{}}}
+{"CheckedBroadcastSuitability":[]}
+{"CheckedInputsNotOwned":[181]}
+{"CheckedNoInputsSeenBefore":[]}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{}}}
+{"CheckedInputsNotOwned":[181]}
+{"CheckedInputsNotOwned":[]}
+{"CheckedNoInputsSeenBefore":[]}
+{"CheckedBroadcastSuitability":[]}
+{"CheckedNoInputsSeenBefore":[]}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{}}}
+{"CheckedBroadcastSuitability":[]}
+{"CheckedInputsNotOwned":[]}
+{"Closed":"FallbackBroadcasted"}

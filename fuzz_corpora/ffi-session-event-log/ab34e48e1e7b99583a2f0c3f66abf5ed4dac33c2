@@ -1,0 +1,6 @@
+{"CheckedBroadcastSuitability":[255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255]}
+{"CheckedInputsNotOwned":[]}
+{"CheckedNoInputsSeenBefore":[]}
+{"IdentifiedReceiverOutputs":[61,61,61,61,61          ,61,61,61,61,61,0,1]}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{},"message":"Receiver error"}}
+{"Cancelled":[]}

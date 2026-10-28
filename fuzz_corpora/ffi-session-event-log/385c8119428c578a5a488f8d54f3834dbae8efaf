@@ -1,0 +1,15 @@
+{"Closed":"FallbackBraodcasted"}
+{"PostedPayjoinProposal":[118,101,114,115,105,111,110]}
+{"GotReplyableError":{"error_code":null,"extra":{"supported":null},"message":"0"}}
+{"Closed":"FallbackBraodcasted"}{
+"PostedPayjoinProposal":[118,101,114,115,105,111,110]}
+{"Closed":"FallbackBroadcasted"}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":null},"message":"5"}}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":false},"message":null}}
+{"PostedPayjoinProposal":[118,101,114,115,105,111,110]}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":null},"message":"0"}}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":false},"message":null}}
+{"PostedPayjoinProposal":[118,101,50,115,105,111,110]}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":null},"message":"0"}}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":false},"message":null}}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":[1,2]},"message":""}}

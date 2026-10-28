@@ -1,0 +1,7 @@
+{"CommittedOutputs":{"change_vout":0,"outputs":[{"script_pubkey":"a9141de849f069d274150e3afeae8d72eb5a6b09443087","value":95983068}]}}
+{"CheckedBroadcastSuitability":null}
+{"CheckedNoInputsSeenBefore":[]}
+{"IdentifiedReceiverOutputs":null}
+{"Cancelled":[]}
+{"CheckedInputsNotOwned":[]}
+{"GotReplyableError":{"error_code":"VersionUnsupported","extra":{},"message":"Receiver  \u0000\u0000\u0000\u0000\u1615\u0000\u0000error"}}

@@ -1,0 +1,3 @@
+{"GotReplyableError":{"error_code":"VersionUnsupported","extra":{},"message":"Re\u0004\u0004\u0004\u0004\u0004\u0004\u0004\u0004\u0004\u0004\u0004\u0004\u0004\u0004\u000directory0004\u0004c\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000ror"}}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":[1,2]},"message":null}}
+{"Cancelled":[]}

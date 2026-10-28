@@ -1,0 +1,5 @@
+{"CheckedInputsNotOwned":[]}
+{"CheckedBroadcastSuitability":[]}
+{"CheckedInputsNotOwned":[121]}
+{"IdentifiedReceiverOutputs":null}
+{"CommittedOutputs":{"change_vout":0,"outputs":[{"script_pubkey":"a90e3afeae8d72eb5a6b09443087","value":"95983068"},{"script_pubkey":"a914774096dbcf486740000}]}}

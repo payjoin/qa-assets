@@ -1,0 +1,10 @@
+{"Closed":"PayjoinProposalSent"}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":[1,2]},"message":""}}
+{"CommittedOutputs":{"change_v"message":""}}
+{"CommittedOutputs":{"change_vout":0,"outputs":[{"script_pubkeyt"}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":[1,2]},"message":""}}
+{"CommittedOutputs":{"change_v"message":""}}
+{"CommittedOutputs":{"change_vout":0,"outputs":[{"script_pubkey":"a9141de849f069d274out":0,"outputs":[{"script_pubkey":"a9141de849f069d274150e3afeae8d72eb5a6b09443087","value":95983068},{"script_pubkey":"a914774096dbcf486743c22f4":"a9141de849f069d274out":0,"outputs":[{"script_pubkey":"a9141de849f069d274150e3afeae8d72eb5a6b09443087","value":95983068},{"script_pubkey":"a914774096dbcf486743c22f4347e9b469febe8b677a87","value":2000000}]}}
+{"Closed":"Abored"}
+{"Closed":"Aborted"}
+{"CheckedBroadcSuitability":[127,0,0,0,0,0,0,3]}

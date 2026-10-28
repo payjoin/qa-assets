@@ -1,0 +1,19 @@
+{"CheckedNoInputsSeenBefore":[]}
+{"CheckedInputsNotOwned":[]leError":{"error_code":"NotEnoughMoney","extra":{},"message":"Receiver error"}}
+{"CheckedNoInputsSeenBefore":[]}
+{"CheckedInputsNotOwned":[]}
+{"CheckedBroadcastSuitability":[]}
+{"IdentifiedReceiverOutputs":0,"outputs":[{"script_pubkey":"a9141de849f069d274150e3afeae8d72eb5a6b09443087","value":95983068},{"script_pubkey":"a914774096dbcf486743c22f4347e9b469febe8b677a87","value":2000000}]}}
+{"CheckedBroadcastSuitability":[]m
+{"GotReplyableError":{"error_code":"NotEnoughMoney","extra":{},"message":"Receiver error"}}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"CommittedOutputs":{"change_vout":0,"outputs":[{"script_pubkey":"a9141de849f069d274150e3afeae8d72eb5a6b09443kedNoInputsSeenBefore":[]}
+{"CheckedInputsNotOwned":[]leError":{"error_code":"NotEnoughMoney","extra":{},"message":"Receiver error"}}
+{"CheckedNoInputsSeenBefore":[]}
+{"CheckedInputsNotOwned":[]}
+{"CheckedBroadcastSuitability":[]}
+{"IdentifiedReceiverOutputs":0,"outputs":[{"script_pubkey":"a9141de849f069d274150e3afeae8d72eb5a6b09443087","value":95983068},{"script_pubkey":"a914774096dbcf486743c22f4347e9b469febe8b677a87","value":2000000}]}}
+{"CheckedBroadcastSuitability":[]m
+{"GotReplyableError":{"error_code":"NotEnoughMoney","extra":{},"message":"Receiver error"}}
+{"IdentifiedReceiverOutpu087","value":95983068},{"script_pubkey":"a914774096dbcf486743c22f4347e9b469febe8b677a87","value":2000000}]}}
+{"CheckedInputsNotOwned":[0,0,0]}

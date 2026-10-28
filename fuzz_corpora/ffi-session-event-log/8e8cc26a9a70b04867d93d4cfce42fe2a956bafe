@@ -1,0 +1,9 @@
+{}
+{}
+{"CheckedInputsNotOwned":[]}
+{"CheckedNoInputsSeenBefore":[]}
+{"GotReplyableError":{"err{}
+{"Closed":"PayjoinProposalSent"}
+{"FinalizedProposal":{"inputs":[{"bip32_derivation":[],"final_script_sig":null,"final_script_witness":null,"hash160_preimages":{},"hash256_preimages":{},"non_witness_utxo":null,"partial_sigs":{},"proprietary":[],"redeem_script":null,"ripemd160_preimages":{},"sha256_preimages":{},"sighash_type":null,"tap_internal_key":null,"tap_key_origins":[],"tap_key_sig":null,"tap_merkle_root":null,"tap_script_sigs":[],"tap_scriorpts":[],"unknown":[],"witness_script":null,"witness_utxo":{"script_pubkey":available","extra":{},"message":null}}
+{"IdentifiedRece1civerOutputs":[0,1]}
+{"CommittedOutputs":{"change_vout"	:"a59135b035ad5e60

@@ -1,0 +1,5 @@
+{"GotReplyableError":{"error_code":"NotEnoughMoney","extra":{},"message":"Receiver error"}}
+{"CommittedOutputs":{"change_vout":4251398050888548352,"outputs":null}}
+{"CommittedOutputs":Error":{"error_code":"NotEnoughMoney","extra":{},"message":"Receiver error"}}
+{"CommittedOutputs":{"change_vout":4251398050888548352,"outputs":null}}
+{"CommittedOutputs":{"change_vout":4251398048237748224,"outputs":fa{"change_vout":4251398048237748224,"outputs":false}}

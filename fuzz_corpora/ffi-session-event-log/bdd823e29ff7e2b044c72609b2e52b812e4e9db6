@@ -1,0 +1,13 @@
+{"PostedOriginalPsbt":[65,4,33,58]}
+{"GotReplyableError":{"error_code":"NotEnoughMoney","message":"Receiver error"}}
+{"PostedOriginalPsbt":[65,58,33,58]}
+{"PostedOriginalPsbt":[65,58,33,58]}
+{"PostedOriginalPsbt":[65,4,33,58]}
+{"GotReplyableError":{"error_code":"NotEnoughMoney","message":"Receiver error"}}
+{"PostedOriginalPsbt":[65,58,33,58]}
+{"PostedOriginalPsbt":[65,58,33,58]}
+{"GotReplyableError":{"error_code":"NotEnoughMoney","message":"Receiver error"}}
+{"GotReplyableError":{"error_code":"NhMoney","extra":{},"message":"Receiver error"}}
+{"PostedOriginalPsbt":[65,58,33,58]}
+{"CheckedInputsNotOwned":[]}
+{}

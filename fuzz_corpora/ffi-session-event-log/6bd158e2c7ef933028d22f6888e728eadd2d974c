@@ -1,0 +1,2 @@
+{"GotReplyableError":{"eary":[],"redeem_script":null,"ripemd160_preimages":{},"sha256_preimages":{},"sighash_type":null,"tap_internal_key":null,"tap_key_origins":[],"tap_key_sig":null,"tap_merkle_root":null,"tap_script_sigs":[],"tap_scripts":[],"unknown":[],"witness_script":false,"witness_utxo":{"script_pubkey":"a914de4e1e9061ca59135b035ad5e6d47990454354d087","value":97983400}}],"outputs":[{"bip32_derivation":[],"proprietary":[],"redeem_script":"001446f61a2bba73828ee585b4a5fcrror_code":"VersionUnsupported","extra":{},"message":"Receiver error"}}
+{"PostedOriginalPsbt":null}

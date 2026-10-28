@@ -1,0 +1,2 @@
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":[1,2,3,0,0,0,0,""}}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","message":"non_witness_utxo"}}

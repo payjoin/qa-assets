@@ -1,0 +1,13 @@
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{},"message":"Receiver error"}}
+{"Closed":"PayjoinProposalSent"}
+{"Closed":"PayjoinProposalSent"}
+{"Closed":"PayjoinProposalSent"}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{},"message":"Receiver error"}}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":[1,2]},"message":""}}
+{"Closed":"PayjoinProposalSent"}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{},"message":"Receiver error"}}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":[1,2]},"message":""}}
+{"Closed":"PayjoinProposalSent"}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{},"message":"Receiver \u0001\u0000\u0000\u0002r"}}
+{"Closed":"PayjoinProposalSent"}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":null},"message":"JJJJJJJJJJJJJJJJJJ"}}

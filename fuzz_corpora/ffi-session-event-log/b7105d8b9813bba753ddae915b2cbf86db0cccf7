@@ -1,0 +1,2 @@
+{"GotReplyableError":{"extra":{"supported":{"Created":{"pj_param":{"directory":"http://localhost:1234/","expiration":4102444800,"id":[49,50,51,52,53,54,55,48],"ohttp_keys":[1,0,22,4,49,201,65,129,251,247,128,36,159,34,170,43,131,131,10,85,25,245,236,35,252,37,128,98,22,235,48,68,122,8,134,133,12,23,false}}}
+{"CommittedInputs":{"payjoin_psbt":{"inputs":[{"bip32_de164,215,191,143,99,200,11,214,1rivation":[],"final_script_sig":"160014c78a45725355828d5658074dd5260d5fcb66,10,31,15,91,98

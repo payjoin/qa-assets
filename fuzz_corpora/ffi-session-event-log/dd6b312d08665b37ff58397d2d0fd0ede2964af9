@@ -1,0 +1,2 @@
+{"CommittedOutputs":{"change_vout":18158513697557839871,"outputs":[{"script_pubkey":"a9151de849f069d274150e3afeae8d72eb5a6b09443087","value":1500},{"script_pubkey":null,"value":2000000}]}}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":[1,2,3,0,0,0,0,0,0,000}]}}ssage":"0"}}

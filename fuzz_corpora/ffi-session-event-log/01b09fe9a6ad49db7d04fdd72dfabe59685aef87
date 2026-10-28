@@ -1,0 +1,12 @@
+{"CheckedBroadcastSuitability":[]}
+{"IdentifiedReceiverOutputs":[]}
+{}
+{"Closed":false}
+{}
+{}
+{"IdentifiedReceiverOutputs":[]}
+{}
+{"Closed":true}
+{}
+{}
+{"CommittedOutputs":{"change_vout":64000,"outputs":[{"script_pubkey":"a9141de849f069d274150e3eafae8d72eb5a6b09443087","value":95983068},{"script_pubkey":"a9|14774096dbcf486743c22f4344e9b469febe8b677a87","value":2000000}]}}

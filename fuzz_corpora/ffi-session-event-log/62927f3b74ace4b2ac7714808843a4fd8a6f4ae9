@@ -1,0 +1,9 @@
+{}
+{"CheckedBroadcastSuitability":[]}
+{}
+{"CheckedBroadcastSuitability":null}
+{"CheckedInputsNotOwputsNotOwned":[255,255,255,91,93,44,34,119,105,116,255]}
+{"IdentifiedReceiverOutputs":null}
+{"Closed":"PayjoinProposalSent"}
+{"GotReplyableError":{"error_code":"Not\u0001\u0000\u0000\
+{"GotReplyableError":{"error_code":"Not\u0001\u0000\u0000\u001fEnoughMoney","extra":{},"message":"Receiver error"}}

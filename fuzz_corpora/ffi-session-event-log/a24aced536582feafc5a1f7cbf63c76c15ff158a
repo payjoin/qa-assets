@@ -1,0 +1,86 @@
+{"CheckedNoInputsSeenBefore":[]}
+{"CheckedInputsNotOwned":[]}
+{"CheckedBroadcastSuitability":[]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"CheckedInputsNotOwned":[]}
+{"CheckedBroadcastSuitability":[]}
+{"IdentifiedReceiverOutputs":null}
+{"CheckedInputsNotOwned":[]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"CheckedInputsNotOwned":[]}
+{"CheckedBroadcastSuitability":null}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"GotReplyableError":{"error_code":"NotEnoughMoney","extra":{},"message":"Receiver error"}}
+{}
+{"CheckedInputsNotOwneheckedInputsNotOwned":null}
+{"CheckedBroadcastSuitability":[]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"GotReplyableError":{"error_code":"NotEnoughMoney","extra":{},"message":"Receiver error"}}
+{"CheckedInputsNotOwned":[]}
+{"CheckedBroadcastSuitability":[]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"CheckedInputsNotOwned":[]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"IdentifiedReceiverOutputs":null}
+{"CheckedInputsNotOwned":[]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"CheckedInputsNotOwned":[]}
+{"CheckedBroadcastSuitability":[]}
+{"CheckedBroadcastSuitability":[]}
+{"GotReplyableError":{"error_code":null,"extra":{},"message":"Receiver error"}}
+{}
+{"CheckedInputsNotOwneheckedInputsNotOwned":null}
+{"CheckedBroadcastSuitability":[]}
+{"IdentifiedReceiverOutputs":[1,1]}
+{"CheckedBroadcastSuitability":[]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"GotReplyableError":{"error_code":"NotEnoughMoney","extra":{},"message":"Receiver error"}}
+{"CheckedNoInputsSeenBefore":[]}
+{"CheckedInputsNotOwned":[]}
+{"CheckedBroadcastSuitability":[]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"GotReplyableError":{"error_code":"NotEnoughMoney","message":"Receiver error"}}
+{"CheckedInputsNotOwned":[]}
+{"CheckedBroadcastSuitability":[]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"GotReplyableError":{"error_code":"NotEnoughMoney","extra":{},"message":"Receiver error"}}
+{}
+{"IdentifiedReceiverOutputs":[0]}
+{"CheckedInputsNotOwneheckedInputsNotOwned":[]}
+{"CheckedBroadcastSuitability":[]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"CommittedOutputs":{"change_vout":0,"outputs":[{"script_pubkey":"a9141de849f069d274150e3afeae8d72eb5a6b09443087","value":95983068},{"script_pubkey":"a914774096dbcf486743c22f4347e9b469febe8b677a87","value":2000000}]}}
+{"CheckedNoInputsSeenBefore":[]}
+{"CheckedInputsNotOwned":[]}
+{"CheckedBroadcastSuitability":[]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"GotReplyableError":{"error_code":"NotEnoughMoney","extra":{},"message":"Receiver error"}}
+{"CheckedNoInputsSeenBefore":[]}
+{"CheckedInputsNotOwned":[]}
+{"CheckedBroadcastSuitability":[]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"GotReplyableError":{"error_code":"NotEnoughMoney","extra":{},"message":"Rceeiver error"}}
+{}
+{"CheckedInputsNotOwneheckedInputsNotOwned":[]}
+{"CheckedBroadcastSuitability":[]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"GotReplyableError":{"error_code":"NotEnoughMoney","extra":{},"message":"Receiver error"}}
+{"CheckedNoInputsSeenBefore":[]}
+{"CheckedInputsNotOwned":[]}
+{"CheckedBroadcastSuitability":[]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"GotReplyableError":{"error_code":"NotEnoughMoney","message":"Receiver error"}}
+{"CheckedInputsNotOwned":[]}
+{"CheckedBroadcastSuitability":[]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"GotReplyableError":{"error_code":"NotEnoughMoney","extra":{},"message":"Receiver error"}}
+{}
+{"IdentifiedReceiverOutputs":[0]}
+{"CheckedInputsNotOwneheckedInputsNotOwned":[]}
+{"CheckedBroadcastSuitability":[]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"GotReplyableError":{"error_code":"NotEnoughMoney","message":"Receiver error"}}
+{"CheckedInputsNotOwneheckedInputsNotOwned":[]}
+{"CheckedBroadcastSuitability":[]}
+{"IdentifiedReceiverOutputs":[0,1]}
+{"CheckedInputsNotOwned":[]}

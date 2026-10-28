@@ -1,0 +1,6 @@
+{"Closed":"FallbackBroadcasted"}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":[1,2]},"message":""}}
+{"GotReplyableError":{"error_code":"Unavailable","extra":{},"message":"Receiver error"}}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{},"message":"Receiver\u0000\u0000 error"}}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":null},"message":"\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r"}}
+"Cancelled"

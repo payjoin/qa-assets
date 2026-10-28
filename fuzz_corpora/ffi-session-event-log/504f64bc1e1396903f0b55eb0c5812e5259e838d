@@ -1,0 +1,2 @@
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":[2]},"messa_code":"NotEnoughMoney","extra":{},"messagege":""}}
+{"GotReplyableError":{"error_code":"OriginalPsb:Rejected","extra":{"supported":[3]},"message":""}}

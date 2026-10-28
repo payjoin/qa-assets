@@ -1,0 +1,16 @@
+{"CheckedBroadcastSuitability":[]}
+{"CheckedInputsNotOwned":[]{
+"}CheckedNoInputsSeenBefore":[]}
+{"GotReplyableError":{"error_code":null,"extra":{},"max_fee_ratemessage":"Receiver error"}}
+{}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":null},"message":""}}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":null},"message":""}}
+{"CheckedNoInputsSeenBefore":[]}
+{"Closed":{"Success":"0000000000000000000000000000000000000000000000000000000000000000"}}
+{"Closed":{"Success":831910441422823910},"max_fee_ratemessage":"Receiver error"}}
+{}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":null},"message":""}}
+{"GotReplyableError":{"error_code":"OriginalPsbtRejected","extra":{"supported":null},"message":""}}
+{"CheckedNoInputsSeenBefore":[]}
+{"Closed":{"Success":"0000000000000000000000000000000000000000000000000000000000000000"}4}}
+{"Closed":"FallbackBroadcasted"}

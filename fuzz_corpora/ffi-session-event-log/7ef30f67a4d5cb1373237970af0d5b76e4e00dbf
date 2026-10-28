@@ -1,0 +1,5 @@
+{"CheckedNoInputsSeenBefore":[73,100,101,110,116,105,102,105,101,100,82,101,99,101,105,118,101,114,79,117,116,112,117,116,115]}
+{"CheckedBroadcastSuitability":[0,0,0,0,0,0,0,0,0,0,0]}
+{"CheckedInputsNotOwned":[]}
+{"IdentifiedReceiverOutputs":null}
+{"CommittedOutputs":{"change_vout":0,"outputs":[{"script_pubkey":"a9141de849f069d274150e3afeae8d72eb5a6b09443087","value":95983068}P,{"script_pubkey":null,"value":2000000}]}}

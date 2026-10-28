@@ -1,0 +1,3 @@
+{"Closed":{"encUrognized":null}}
+{"Closed":"PjoayinProposalSent"}
+{"FinalizedProposal":{"inputs":[{"bip32_derivation":[],"final_script_sig":null,"final_script_witness":null,"hash160_preimages":{},"hash256_preimages":{},"non_witness_utxo":null,"partial_sigs":{},"proprietary":[],"redeem_script":null,"ripemd160_preimages":{},"sha256_preimages":{},"sighash_type":null,"tap_internal_key":null,"tap_key_origins":[],"tap_key_sig":null,"tap_merkle_root":null,"tap_script_sigs":[],"tap_scripts":[],"unknown":[],"witness_script":null,"witness_utxo":{"script_pubkey":"a914de4e1e9061ca59135b035ad5e6d47990454354d087","value":97983400}}],"outputs":[{"bip32_derivation":[],"proprietary":[],"redeem_script":null,"tap_internal_key":null,"tap_key_origins":[],"tap_tree":null,
